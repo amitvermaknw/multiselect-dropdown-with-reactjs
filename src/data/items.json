@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "value": "java",
+        "label": "Java"
+    },
+    {
+        "id": 2,
+        "value": "python",
+        "label": "Python"
+    },
+    {
+        "id": 3,
+        "value": "nodejs",
+        "label": "Nodejs"
+    },
+    {
+        "id": 4,
+        "value": "reactjs",
+        "label": "Reactjs"
+    }
+]
